@@ -1,2 +1,2 @@
 # Thesis
-Data and scripts
+Related results and scripts used are provided.
